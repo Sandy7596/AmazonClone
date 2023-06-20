@@ -16,7 +16,7 @@ Responsive Design: The Amazon clone is designed to be responsive, ensuring a sea
 
 Third-Party Integrations: The application may incorporate additional features such as social media sharing, payment gateways, and address verification services to enhance the overall user experience.
 
-Link to the clone Web Application: https://clone-cf3e6.web.app/
+**Link:** https://clone-cf3e6.web.app/
 
 
 
